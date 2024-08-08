@@ -1,0 +1,10 @@
+.formBody{
+    color:#A02334;
+    background-color:#FFAD60;
+    padding: 10px;
+}
+.formBody input{
+    display: block;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}

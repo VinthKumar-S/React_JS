@@ -1,13 +1,21 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Form from './intro';
+import './style.css';
+
+/*
+class Car extends React.Component{
+  render(){
+    return <b>Welcome</b>;
+  }
+}*/
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <h1>Demo with React</h1>
+    <Form></Form>
   </React.StrictMode>
 );
 
