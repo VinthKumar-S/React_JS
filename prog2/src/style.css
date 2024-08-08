@@ -1,0 +1,12 @@
+.header img{
+    width: 200px;
+}
+.main {
+    width: 900px;
+}
+.footer{
+    background-color: black;
+}
+.footer p{
+    color: white;
+}
