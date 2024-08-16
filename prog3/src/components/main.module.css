@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    
+}
+
+.availabiliy{
+    margin-left: 50px;
+    width: 400px;
+    border:1px solid black;
+    padding:20px   
+}
+
+.availabiliy img{
+    width: 200px;   
+}
+
+.notavailability {
+    margin-left: 50px;
+    width: 400px;
+    border:1px solid black;
+    padding:20px; 
+    color:red;    
+}
+
+.availabiliy img{
+    width: 200px;   
+}
