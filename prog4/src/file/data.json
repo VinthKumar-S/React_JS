@@ -1,0 +1,50 @@
+[
+    {
+        "img":"https://m.media-amazon.com/images/I/61BSx+ypstL._AC_UL480_FMwebp_QL65_.jpg",
+        "description":"Robocraze Improved Version Nano V3 Board Compatible with Arduino | Nano V3 Board with Soldered Pins & USB Cable",
+        "prize":"299",
+        "availability":true
+    },
+    {
+        "img":"https://m.media-amazon.com/images/I/61NbRWVI2ML._SX522_.jpg",
+        "description":"RoboCraze UNO R3 SMD Board compatible with Arduino | Development Board with USB cable",
+        "prize":"390",
+        "availability":true
+    },
+    {
+        "img":"https://m.media-amazon.com/images/I/515F5yVnOWL._SY445_SX342_QL70_FMwebp_.jpg",
+        "description":"PAGALCODER | Arduno Uno SMD R3 Board with Cable | with Jumper Wires Combo",
+        "prize":"549",
+        "availability":false
+    },
+    {
+        "img":"https://m.media-amazon.com/images/I/51+N-57gSiL._SX342_SY445_.jpg",
+        "description":"Arduino UNO R3 Original | Genuine Arduino UNO Board with DIP ATmega328P",
+        "prize":"2,699",
+        "availability":true
+    },
+    {
+        "img":"https://m.media-amazon.com/images/I/61BSx+ypstL._AC_UL480_FMwebp_QL65_.jpg",
+        "description":"Robocraze Improved Version Nano V3 Board Compatible with Arduino | Nano V3 Board with Soldered Pins & USB Cable",
+        "prize":"299",
+        "availability":false
+    },
+    {
+        "img":"https://m.media-amazon.com/images/I/61NbRWVI2ML._SX522_.jpg",
+        "description":"RoboCraze UNO R3 SMD Board compatible with Arduino | Development Board with USB cable",
+        "prize":"390",
+        "availability":true
+    },
+    {
+        "img":"https://m.media-amazon.com/images/I/515F5yVnOWL._SY445_SX342_QL70_FMwebp_.jpg",
+        "description":"PAGALCODER | Arduno Uno SMD R3 Board with Cable | with Jumper Wires Combo",
+        "prize":"549",
+        "availability":false
+    },
+    {
+        "img":"https://m.media-amazon.com/images/I/51+N-57gSiL._SX342_SY445_.jpg",
+        "description":"Arduino UNO R3 Original | Genuine Arduino UNO Board with DIP ATmega328P",
+        "prize":"2,699",
+        "availability":true
+    }
+]
