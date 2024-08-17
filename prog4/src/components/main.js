@@ -1,7 +1,9 @@
 import Maincss from './main.module.css';
-
+import Header  from './header';
 export default function Main(props){
     return(
+        <div>
+        <Header></Header>        
         <div className={Maincss.container}>
             {
                 props.items.map((val,index)=>
@@ -19,6 +21,7 @@ export default function Main(props){
                         </div>
                 )
             }
+        </div>
         </div>
         )
     
