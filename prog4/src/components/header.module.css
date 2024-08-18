@@ -1,0 +1,20 @@
+
+ul {
+    display: flex;
+    height: 50px;
+    background-color: #2155CD;
+    margin-top: 0px;
+    padding-bottom: 20px;
+}
+ul li{
+    margin-top: 20px;
+    margin-left: 20px;
+    list-style: none;
+}
+
+.navLink{
+    text-decoration: none;
+    color:#E8F9FD;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
